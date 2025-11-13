@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "05e31c25e3cbcbee",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcd56b45586e22df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8aec2bc9e0256b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Töri/2/3. Gyakorlás.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Gyakorlás"
+            }
+          },
+          {
+            "id": "0eeeac018151ff6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Töri/2/3. Gyakorlás.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Gyakorlás"
+            }
+          },
+          {
+            "id": "d91d059615599296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biosz/3. Felépítő anyagcsere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Felépítő anyagcsere"
+            }
+          },
+          {
+            "id": "99a5d51ef8f63d60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biosz/3. Felépítő anyagcsere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Felépítő anyagcsere"
+            }
+          },
+          {
+            "id": "30728019b5c7e775",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Biosz/Excalidraw/Drawing 2025-11-12 12.48.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-12 12.48.18.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4514c36a11550c77",
+    "type": "split",
+    "children": [
+      {
+        "id": "97cc5468cb662a20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "238ab6f55a6a49fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "37553607035f127a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:.pdf",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cb78c6f21024248b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "right": {
+    "id": "53c155c60700823e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f8d8cbd9d5ace82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c50a8002cea0db71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "3e8ccd30572d569c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "26a05c6c5e1342cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a16786f575870be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Föci/3. Etnika.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3. Etnika"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "37553607035f127a",
+  "lastOpenFiles": [
+    "Irodalom/Szöveggyűjteméy.pdf",
+    "Biosz/Excalidraw/Drawing 2025-11-12 12.48.18.excalidraw.md",
+    "Töri/Tankönyv.pdf",
+    "gitignore.txt",
+    "Új Szöveges dokumentum.txt",
+    "Biosz/1. Anyagcsere.md",
+    "Biosz/3. Felépítő anyagcsere.md",
+    "Biosz/Excalidraw/Drawing 2025-11-05 12.58.07.excalidraw.md",
+    "Biosz/Excalidraw/Drawing 2025-11-07 10.02.24.excalidraw.md",
+    "Biosz/Excalidraw/Drawing 2025-11-12 12.44.06.excalidraw.md",
+    "Biosz/Excalidraw/Drawing 2025-10-16 13.43.52.excalidraw.md",
+    "Biosz/Excalidraw/Drawing 2025-10-22 12.29.52.excalidraw.md",
+    "Töri/2/4. Rendiség.md",
+    "Töri/2/3. Gyakorlás.md",
+    "Töri/2/2. Céhek.md",
+    "Töri/2/1. Középkori városok.md",
+    "Töri/Excalidraw/Drawing 2025-11-03 12.58.10.excalidraw.md",
+    "Irodalom/2. Klasszicizmus/2. Moliére.md",
+    "Kémia/3. Alkánok.md",
+    "Irodalom/2. Klasszicizmus/3. A felviágosodás.md",
+    "Irodalom/2. Klasszicizmus/3..md",
+    "Töri/Excalidraw",
+    "Kémia/Excalidraw/Drawing 2025-11-10 10.50.18.excalidraw.md",
+    "Kémia/2. Metán kémiai tulajdonságai.md",
+    "Kémia/1. Telített szénhidrogének.md",
+    "Biosz/2. Biológiai oxidáció.md",
+    "Nyelvtan/5. Az írásjelek használata.md",
+    "Irodalom/1. Barokk/1. Fogalmak.md",
+    "Irodalom/2. Klasszicizmus/1. A francia klasszicista színház és dráma.md",
+    "Irodalom/1. Barokk/6. A kuruc kor irodalma.md",
+    "Töri/2",
+    "Töri/1",
+    "Excalidraw",
+    "Föci/Atlasz.pdf",
+    "Biosz",
+    "Biosz/Excalidraw"
+  ]
+}
