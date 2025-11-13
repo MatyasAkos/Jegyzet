@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:.pdf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,8 +129,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,11 +226,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "37553607035f127a",
+  "active": "238ab6f55a6a49fc",
   "lastOpenFiles": [
-    "Irodalom/Szöveggyűjteméy.pdf",
-    "Biosz/Excalidraw/Drawing 2025-11-12 12.48.18.excalidraw.md",
     "Töri/Tankönyv.pdf",
+    "Irodalom/Szöveggyűjteméy.pdf",
+    "Föci/Atlasz.pdf",
+    "Biosz/Excalidraw/Drawing 2025-11-12 12.48.18.excalidraw.md",
     "gitignore.txt",
     "Új Szöveges dokumentum.txt",
     "Biosz/1. Anyagcsere.md",
@@ -262,7 +262,6 @@
     "Töri/2",
     "Töri/1",
     "Excalidraw",
-    "Föci/Atlasz.pdf",
     "Biosz",
     "Biosz/Excalidraw"
   ]
