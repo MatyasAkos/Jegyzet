@@ -4,5 +4,6 @@
   "obsidian-chartsview-plugin",
   "fast-text-color",
   "obsidian-text-format",
-  "obsidian-graphviz"
+  "obsidian-graphviz",
+  "github-sync"
 ]

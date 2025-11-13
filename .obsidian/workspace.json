@@ -67,12 +67,14 @@
             "id": "30728019b5c7e775",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Biosz/Excalidraw/Drawing 2025-11-12 12.48.18.excalidraw.md"
+                "file": "Töri/2/4. Rendiség.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-12 12.48.18.excalidraw"
+              "icon": "lucide-file",
+              "title": "4. Rendiség"
             }
           }
         ],
@@ -226,12 +228,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "238ab6f55a6a49fc",
+  "active": "30728019b5c7e775",
   "lastOpenFiles": [
+    "Biosz/Excalidraw/Drawing 2025-11-12 12.48.18.excalidraw.md",
     "Töri/Tankönyv.pdf",
     "Irodalom/Szöveggyűjteméy.pdf",
     "Föci/Atlasz.pdf",
-    "Biosz/Excalidraw/Drawing 2025-11-12 12.48.18.excalidraw.md",
     "gitignore.txt",
     "Új Szöveges dokumentum.txt",
     "Biosz/1. Anyagcsere.md",
@@ -262,7 +264,6 @@
     "Töri/2",
     "Töri/1",
     "Excalidraw",
-    "Biosz",
-    "Biosz/Excalidraw"
+    "Biosz"
   ]
 }
