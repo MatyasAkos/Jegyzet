@@ -135,12 +135,14 @@
             "id": "07f45cd4d86ed30b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Biosz/Excalidraw/Drawing 2025-11-13 14.04.17.excalidraw.md"
+                "file": "Biosz/4. Eukarióta sejtalkotók.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-13 14.04.17.excalidraw"
+              "icon": "lucide-file",
+              "title": "4. Eukarióta sejtalkotók"
             }
           }
         ],
@@ -201,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 325.5
   },
   "right": {
     "id": "53c155c60700823e",
@@ -307,6 +309,8 @@
   },
   "active": "07f45cd4d86ed30b",
   "lastOpenFiles": [
+    "Nyelvtan/6. Gyakorlás.md",
+    "Nyelvtan/5. Az írásjelek használata.md",
     "Biosz/4. Eukarióta sejtalkotók.md",
     "Biosz/Excalidraw/Drawing 2025-11-13 14.04.17.excalidraw.md",
     "Biosz/Excalidraw/Drawing 2025-11-05 12.58.07.excalidraw.md",
@@ -315,11 +319,9 @@
     "Biosz/Excalidraw/Drawing 2025-11-12 12.48.18.excalidraw.md",
     "Excalidraw/Drawing 2025-11-13 12.53.24.excalidraw.md",
     "Biosz/3. Felépítő anyagcsere.md",
-    "Nyelvtan/6. Gyakorlás.md",
     "Töri/1/3. Lovaság.md",
     "Nyelvtan/Excalidraw/Drawing 2025-11-13 12.34.17.excalidraw.md",
     "Nyelvtan/Excalidraw/Drawing 2025-11-13 12.33.03.excalidraw.md",
-    "Nyelvtan/5. Az írásjelek használata.md",
     "Töri/2/4. Rendiség.md",
     "Töri/Tankönyv.pdf",
     "Irodalom/Szöveggyűjteméy.pdf",
