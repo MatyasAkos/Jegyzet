@@ -1,6 +1,6 @@
 {
-  "findText": ".jel",
-  "replaceText": "jel",
+  "findText": "-hat",
+  "replaceText": "hat",
   "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,
