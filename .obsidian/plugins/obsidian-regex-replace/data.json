@@ -1,6 +1,6 @@
 {
-  "findText": "-hat",
-  "replaceText": "hat",
+  "findText": "<sub>tárgy</sub>",
+  "replaceText": "",
   "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,
