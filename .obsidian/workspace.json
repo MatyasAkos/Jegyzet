@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Töri/2/5. Az iszlám vallás.md",
+                "file": "Biosz/4. Eukarióta sejtalkotók.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Az iszlám vallás"
+              "title": "4. Eukarióta sejtalkotók"
+            }
+          },
+          {
+            "id": "7c82ea8fe5455766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biosz/5. Transzportfolyamatok.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Transzportfolyamatok"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,8 +196,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba5c975fe77978ec",
+  "active": "7c82ea8fe5455766",
   "lastOpenFiles": [
+    "Biosz/4. Eukarióta sejtalkotók.md",
+    "Biosz/5. Transzportfolyamatok.md",
+    "Töri/2/5. Az iszlám vallás.md",
+    "Töri/1/4. Bellatores.md",
+    "Töri/1/3. Lovasság.md",
+    "Töri/1/2. A jobbágyok világa.md",
     "Töri/1/1. Laboratores = Dolgozók rendje.md",
     "Töri/2/4. Rendiség.md",
     "Töri/2/2. Céhek.md",
@@ -199,17 +220,11 @@
     "Töri/Excalidraw/Drawing 2025-11-02 12.58.41.excalidraw.md",
     "Töri/Excalidraw/Drawing 2025-11-03 12.58.10.excalidraw.md",
     "Töri/2/3. Gyakorlás.md",
-    "Töri/2/5. Az iszlám vallás.md",
     "Kémia/4. Természetes források.md",
     "Kémia/Excalidraw/Drawing 2025-11-24 10.42.31.excalidraw.md",
     "Kémia/Excalidraw/Drawing 2025-11-10 10.50.18.excalidraw.md",
     "Kémia/Excalidraw/Drawing 2025-10-13 10.32.42.excalidraw.md",
     "Kémia/Excalidraw/Drawing 2025-11-03 10.45.33.excalidraw.md",
-    "Biosz/4. Eukarióta sejtalkotók.md",
-    "Nyelvtan/Excalidraw/Drawing 2025-11-20 12.52.32.excalidraw.md",
-    "Nyelvtan/3. A határozó és jelző.md",
-    "Nyelvtan/6. Gyakorlás.md",
-    "Nyelvtan/4. A mondatok típusai.md",
     "Töri/Tankönyv.pdf",
     "Irodalom/Szöveggyűjteméy.pdf",
     "gitignore.txt",
