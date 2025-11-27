@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biosz/5. Transzportfolyamatok.md",
+                "file": "Nyelvtan/4. A mondatok típusai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Transzportfolyamatok"
+              "title": "4. A mondatok típusai"
+            }
+          },
+          {
+            "id": "293ccae2f86cc3a1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Biosz/Excalidraw/Drawing 2025-11-19 12.30.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-19 12.30.15.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lehel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,9 +208,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c82ea8fe5455766",
+  "active": "293ccae2f86cc3a1",
   "lastOpenFiles": [
+    "Biosz/1. Anyagcsere.md",
+    "Biosz/Excalidraw/Drawing 2025-11-19 12.30.15.excalidraw.md",
+    "Biosz/2. Biológiai oxidáció.md",
+    "Biosz/6. Összefoglalás.md",
+    "Biosz/Excalidraw/Drawing 2025-11-05 12.58.07.excalidraw.md",
+    "Biosz/Excalidraw/Drawing 2025-11-12 12.48.18.excalidraw.md",
+    "Biosz/Excalidraw/Drawing 2025-11-13 14.04.17.excalidraw.md",
+    "Biosz/Excalidraw/Drawing 2025-11-20 13.31.34.excalidraw.md",
     "Biosz/4. Eukarióta sejtalkotók.md",
+    "Nyelvtan/4. A mondatok típusai.md",
+    "Nyelvtan/7. Összefoglalás.md",
     "Biosz/5. Transzportfolyamatok.md",
     "Töri/2/5. Az iszlám vallás.md",
     "Töri/1/4. Bellatores.md",
@@ -208,23 +230,13 @@
     "Töri/2/4. Rendiség.md",
     "Töri/2/2. Céhek.md",
     "Töri/2/1. Középkori városok.md",
-    "Nyelvtan/7. Összefoglalás.md",
     "Föci/7. Városiasodás.md",
     "Föci/Excalidraw/Drawing 2025-11-25 11.01.25.excalidraw.md",
-    "Biosz/Excalidraw/Drawing 2025-11-20 13.31.34.excalidraw.md",
     "Föci/Atlasz.pdf",
     "Föci/8. Városok csoportosítása.md",
     "Kémia/3. Alkánok.md",
     "Nyelvtan/Excalidraw/Drawing 2025-11-24 14.35.22.excalidraw.md",
     "Töri/Excalidraw/Drawing 2025-11-03 12.58.41.excalidraw.md",
-    "Töri/Excalidraw/Drawing 2025-11-02 12.58.41.excalidraw.md",
-    "Töri/Excalidraw/Drawing 2025-11-03 12.58.10.excalidraw.md",
-    "Töri/2/3. Gyakorlás.md",
-    "Kémia/4. Természetes források.md",
-    "Kémia/Excalidraw/Drawing 2025-11-24 10.42.31.excalidraw.md",
-    "Kémia/Excalidraw/Drawing 2025-11-10 10.50.18.excalidraw.md",
-    "Kémia/Excalidraw/Drawing 2025-10-13 10.32.42.excalidraw.md",
-    "Kémia/Excalidraw/Drawing 2025-11-03 10.45.33.excalidraw.md",
     "Töri/Tankönyv.pdf",
     "Irodalom/Szöveggyűjteméy.pdf",
     "gitignore.txt",
