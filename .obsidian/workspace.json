@@ -8,105 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba5c975fe77978ec",
+            "id": "6eeb03fe82589d9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biosz/1. Sejtek/4. Eukarióta sejtalkotók.md",
+                "file": "Nyelvtan/Mondattan/8. Gyakorlás pt 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Eukarióta sejtalkotók"
+              "title": "8. Gyakorlás pt 2"
             }
           },
           {
-            "id": "7c82ea8fe5455766",
+            "id": "913281fd0833f3a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nyelvtan/4. A mondatok típusai.md",
+                "file": "Föci/8. Nagyvárosok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. A mondatok típusai"
+              "title": "8. Nagyvárosok"
             }
           },
           {
-            "id": "293ccae2f86cc3a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biosz/1. Sejtek/1. Anyagcsere.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Anyagcsere"
-            }
-          },
-          {
-            "id": "df262c9f550544c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biosz/2. Szervek/1. Bőr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Bőr"
-            }
-          },
-          {
-            "id": "69f347edd72f3d0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biosz/2. Szervek/1. Bőr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Bőr"
-            }
-          },
-          {
-            "id": "ae4e80863ef68712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/4. Természetes források.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Természetes források"
-            }
-          },
-          {
-            "id": "771dbdbb809c68a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/5. Alkének.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Alkének"
-            }
-          },
-          {
-            "id": "f9d977e6f7eecf84",
+            "id": "94eb256d070d3e49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 203.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,43 +210,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9d977e6f7eecf84",
+  "active": "94eb256d070d3e49",
   "lastOpenFiles": [
-    "Kémia/5. Alkének.md",
-    "Töri/3. A magyarság őstörténete/1. Honfoglalás.md",
-    "Töri/3. A magyarság őstörténete",
+    "Biosz/1. Sejtek/5. Transzportfolyamatok.md",
+    "Biosz/1. Sejtek/4. Eukarióta sejtalkotók.md",
+    "Kémia/2. Metán kémiai tulajdonságai.md",
     "Kémia/3. Alkánok.md",
+    "Biosz/1. Sejtek/3. Felépítő anyagcsere.md",
+    "Biosz/1. Sejtek/2. Biológiai oxidáció.md",
+    "Biosz/1. Sejtek/1. Anyagcsere.md",
+    "Nyelvtan/Mondattan/8. Gyakorlás pt 2.md",
+    "Föci/8. Nagyvárosok.md",
+    "Föci/Excalidraw/Drawing 2025-12-02 10.37.30.excalidraw.md",
+    "Föci/Excalidraw/Drawing 2025-11-25 11.01.25.excalidraw.md",
+    "Föci/7. Városiasodás.md",
+    "Föci/Excalidraw/Untitled.md",
+    "Föci/5. Legek.md",
+    "Nyelvtan/Mondattan/1. Az állítmány.md",
+    "Töri/3. A magyarság őstörténete/1. Honfoglalás.md",
+    "Nyelvtan/Mondattan",
+    "Kémia/5. Alkének.md",
+    "Töri/3. A magyarság őstörténete",
     "Kémia/4. Természetes források.md",
     "Biosz/Excalidraw/Drawing 2025-11-28 09.40.46.excalidraw.md",
     "Biosz/2. Szervek/1. Bőr.md",
     "Excalidraw",
-    "Biosz/1. Sejtek/1. Anyagcsere.md",
     "Biosz/2. Szervek",
     "Biosz/Excalidraw/Drawing 2025-11-19 12.30.15.excalidraw.md",
     "Biosz/1. Sejtek",
-    "Biosz/1. Sejtek/2. Biológiai oxidáció.md",
     "Biosz/1. Sejtek/6. Összefoglalás.md",
     "Biosz/Excalidraw/Drawing 2025-11-05 12.58.07.excalidraw.md",
     "Biosz/Excalidraw/Drawing 2025-11-12 12.48.18.excalidraw.md",
     "Biosz/Excalidraw/Drawing 2025-11-13 14.04.17.excalidraw.md",
     "Biosz/Excalidraw/Drawing 2025-11-20 13.31.34.excalidraw.md",
-    "Biosz/1. Sejtek/4. Eukarióta sejtalkotók.md",
-    "Nyelvtan/4. A mondatok típusai.md",
-    "Nyelvtan/7. Összefoglalás.md",
-    "Biosz/1. Sejtek/5. Transzportfolyamatok.md",
-    "Töri/2. Hűbériség/5. Az iszlám vallás.md",
-    "Töri/1. Jobbágyság/4. Bellatores.md",
-    "Töri/1. Jobbágyság/3. Lovasság.md",
-    "Töri/1. Jobbágyság/2. A jobbágyok világa.md",
-    "Töri/1. Jobbágyság/1. Laboratores = Dolgozók rendje.md",
-    "Töri/2. Hűbériség/4. Rendiség.md",
-    "Töri/2. Hűbériség/2. Céhek.md",
-    "Töri/2. Hűbériség/1. Középkori városok.md",
     "Föci/Atlasz.pdf",
     "Töri/Tankönyv.pdf",
     "Irodalom/Szöveggyűjteméy.pdf",
     "gitignore.txt",
-    "Új Szöveges dokumentum.txt",
-    "Töri/Excalidraw"
+    "Új Szöveges dokumentum.txt"
   ]
 }
