@@ -8,77 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6eeb03fe82589d9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nyelvtan/Mondattan/8. Gyakorlás pt 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Gyakorlás pt 2"
-            }
-          },
-          {
-            "id": "913281fd0833f3a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Föci/8. Nagyvárosok.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Nagyvárosok"
-            }
-          },
-          {
-            "id": "94eb256d070d3e49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/3. A magyarság őstörténete/1. Honfoglalás.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Honfoglalás"
-            }
-          },
-          {
-            "id": "9455b2aec8f75b41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nyelvtan/Mondattan/7. Összefoglalás.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Összefoglalás"
-            }
-          },
-          {
             "id": "3916274fe151645a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nyelvtan/Mondattan/9. Többszörösen összetett mondat.md",
+                "file": "Biosz/2. Szervek/1. Bőr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Többszörösen összetett mondat"
+              "title": "1. Bőr"
+            }
+          },
+          {
+            "id": "3541854082360512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biosz/2. Szervek/2. Bőrápolás.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Bőrápolás"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,10 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3916274fe151645a",
+  "active": "3541854082360512",
   "lastOpenFiles": [
-    "Nyelvtan/Excalidraw/Drawing 2025-12-04 13.00.09.excalidraw.md",
+    "Biosz/2. Szervek/1. Bőr.md",
+    "Biosz/2. Szervek/2. Bőrápolás.md",
     "Nyelvtan/Mondattan/9. Többszörösen összetett mondat.md",
+    "Nyelvtan/Excalidraw/Drawing 2025-12-04 13.00.09.excalidraw.md",
     "Nyelvtan/Mondattan/6. Gyakorlás.md",
     "Nyelvtan/Mondattan/5. Az írásjelek használata.md",
     "Nyelvtan/Mondattan/7. Összefoglalás.md",
@@ -266,8 +226,6 @@
     "Nyelvtan/Mondattan",
     "Kémia/5. Alkének.md",
     "Töri/3. A magyarság őstörténete",
-    "Kémia/4. Természetes források.md",
-    "Biosz/Excalidraw/Drawing 2025-11-28 09.40.46.excalidraw.md",
     "Excalidraw",
     "Biosz/2. Szervek",
     "Biosz/1. Sejtek",
