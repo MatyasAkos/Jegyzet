@@ -8,159 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cdcf94e264d3a8d",
+            "id": "75f1845702b6dd6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biosz/2. Szervek és szervrendszerek/3. Mozgás szervrendszere.md",
+                "file": "Föci/2. Világgazdaság/1. A fejlettség mérése.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Mozgás szervrendszere"
-            }
-          },
-          {
-            "id": "9bebb999b5c2f3c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biosz/2. Szervek és szervrendszerek/3. Csontváz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Csontváz"
-            }
-          },
-          {
-            "id": "baa5116811c1f2ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biosz/2. Szervek és szervrendszerek/3. Csontváz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Csontváz"
-            }
-          },
-          {
-            "id": "3b57574e52adac69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/5. Alkének.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Alkének"
-            }
-          },
-          {
-            "id": "594132304b4d3a08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Irodalom/2. Klasszicizmus/6. Voltaire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Voltaire"
-            }
-          },
-          {
-            "id": "9ba2f474d079acbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/5. Alkének.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Alkének"
-            }
-          },
-          {
-            "id": "90b7ae3ae5a31a4c",
-            "type": "leaf",
-            "state": {
-              "type": "ket-view",
-              "state": {
-                "file": "Ketcher/Ketcher 1-5-2026 11.03.27.ket"
-              },
-              "icon": "ketcher",
-              "title": "Ketcher 1-5-2026 11.03.27"
-            }
-          },
-          {
-            "id": "e922332f1eaf89da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/6. Polimerizáció.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Polimerizáció"
-            }
-          },
-          {
-            "id": "e7752355ed7fa7ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/3. A magyarság őstörténete/2. Korai történet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Korai történet"
-            }
-          },
-          {
-            "id": "25111e91dc0c0288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/3. A magyarság őstörténete/4. Vármegyék.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Vármegyék"
-            }
-          },
-          {
-            "id": "a63b73f062722c87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Irodalom/2. Klasszicizmus/7. Johann Wolfgang Goethe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Johann Wolfgang Goethe"
+              "title": "1. A fejlettség mérése"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 209.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -321,19 +182,23 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "a63b73f062722c87",
+  "active": "75f1845702b6dd6a",
   "lastOpenFiles": [
+    "Töri/3. A magyarság őstörténete/2. Korai történet.md",
+    "Ketcher/Ketcher 1-5-2026 11.03.27.ket",
+    "Kémia/5. Alkének.md",
+    "Irodalom/2. Klasszicizmus/6. Voltaire.md",
+    "Föci/2. Világgazdaság/1. A fejlettség mérése.md",
+    "Föci/1. Népesség/9. Összefoglalás.md",
+    "Föci/2. Világgazdaság",
+    "Föci/1. Népesség",
+    "Irodalom/2. Klasszicizmus/7. Johann Wolfgang Goethe.md",
     "Töri/3. A magyarság őstörténete/4. Vármegyék.md",
     "Töri/3. A magyarság őstörténete/Excalidraw/királyi tanács.jpg",
     "Töri/3. A magyarság őstörténete/Excalidraw/Drawing 2026-01-12 12.47.35.excalidraw.md",
-    "Töri/3. A magyarság őstörténete/2. Korai történet.md",
     "Ketcher/Ketcher 1-12-2026 10.58.17.ket",
     "Kémia/6. Polimerizáció.md",
     "Ketcher/Ketcher 1-12-2026 10.49.42.ket",
-    "Ketcher/Ketcher 1-5-2026 11.03.27.ket",
-    "Kémia/5. Alkének.md",
-    "Irodalom/2. Klasszicizmus/7. Johann Wolfgang Goethe.md",
-    "Irodalom/2. Klasszicizmus/6. Voltaire.md",
     "Ketcher",
     "Kémia/3. Alkánok.md",
     "Biosz/2. Szervek és szervrendszerek/5. Vázizomrendszer.md",
@@ -341,23 +206,19 @@
     "Biosz/2. Szervek és szervrendszerek/4. Mozgásszervrendszeri betegségek.md",
     "Nyelvtan/Mondattan/6. Gyakorlás.md",
     "Nyelvtan/Mondattan/4. A mondatok típusai.md",
-    "Föci/8. Nagyvárosok.md",
-    "Föci/7. Városiasodás.md",
-    "Föci/6. Népességföldrajz.md",
-    "Föci/5. Legek.md",
-    "Föci/4. Népesség.md",
-    "Föci/3. Etnika.md",
-    "Föci/2. Vallási összetétel.md",
-    "Föci/1. Rasszkok (Emberfajták).md",
+    "Föci/1. Népesség/8. Nagyvárosok.md",
+    "Föci/1. Népesség/7. Városiasodás.md",
+    "Föci/1. Népesség/6. Népességföldrajz.md",
+    "Föci/1. Népesség/5. Legek.md",
+    "Föci/1. Népesség/4. Népesség.md",
+    "Föci/1. Népesség/3. Etnika.md",
+    "Föci/1. Népesség/2. Vallási összetétel.md",
+    "Föci/1. Népesség/1. Rasszkok (Emberfajták).md",
     "Irodalom/Szöveggyűjteméy.pdf",
-    "Föci/9. Összefoglalás.md",
     "Biosz/Excalidraw/Drawing 2025-12-12 09.38.51.excalidraw.md",
     "Nyelvtan/Mondattan/8. Többszörösen összetett mondat.md",
-    "Biosz/Excalidraw/Drawing 2025-12-11 13.50.32.excalidraw.md",
     "Nyelvtan/Szövegtan",
     "Nyelvtan/Mondattan",
-    "Töri/3. A magyarság őstörténete",
-    "Töri/3. A magyarság őstörténete/Excalidraw",
-    "Biosz/2. Szervek és szervrendszerek"
+    "Töri/3. A magyarság őstörténete"
   ]
 }
