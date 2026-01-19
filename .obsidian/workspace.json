@@ -111,16 +111,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Töri/3. A magyarság őstörténete/7. XI. Század.md",
+                "file": "Irodalom/2. Klasszicizmus/7. Johann Wolfgang Goethe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. XI. Század"
+              "title": "7. Johann Wolfgang Goethe"
+            }
+          },
+          {
+            "id": "ac192f971f690ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Irodalom/2. Klasszicizmus/7. Johann Wolfgang Goethe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Johann Wolfgang Goethe"
+            }
+          },
+          {
+            "id": "024ab9733a4c6e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Irodalom/2. Klasszicizmus/5. Az angol líra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Az angol líra"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -281,10 +309,16 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "4d2c0af7894b9371",
+  "active": "024ab9733a4c6e7c",
   "lastOpenFiles": [
-    "Töri/3. A magyarság őstörténete/6. Szent István.md",
+    "Irodalom/2. Klasszicizmus/8. Összefoglalás.md",
+    "Irodalom/2. Klasszicizmus/6. Voltaire.md",
+    "Irodalom/2. Klasszicizmus/7. Johann Wolfgang Goethe.md",
+    "Irodalom/2. Klasszicizmus/2. Moliére.md",
+    "Egyéb/Magyar felelési rendszer.md",
+    "Egyéb",
     "Töri/3. A magyarság őstörténete/7. XI. Század.md",
+    "Töri/3. A magyarság őstörténete/6. Szent István.md",
     "Töri/3. A magyarság őstörténete/4. Vármegyék.md",
     "Töri/3. A magyarság őstörténete/5. Egyházszervezet.md",
     "Kémia/7. Több és erősebb kötések.md",
@@ -302,26 +336,20 @@
     "Biosz/2. Szervek és szervrendszerek/6. Gyakorlás.md",
     "Biosz/2. Szervek és szervrendszerek/1. Bőr.md",
     "Biosz/2. Szervek és szervrendszerek/5. Vázizomrendszer.md",
-    "Irodalom/2. Klasszicizmus/7. Johann Wolfgang Goethe.md",
     "Ketcher/Ketcher 1-5-2026 11.03.27.ket",
     "Töri/3. A magyarság őstörténete/2. Korai történet.md",
     "Excalidraw/Drawing 2026-01-13 13.32.19.excalidraw.md",
     "Föci/2. Világgazdaság/1. A fejlettség mérése.md",
     "Excalidraw",
     "Kémia/5. Alkének.md",
-    "Irodalom/2. Klasszicizmus/6. Voltaire.md",
     "Föci/1. Népesség/9. Összefoglalás.md",
     "Föci/2. Világgazdaság",
-    "Föci/1. Népesség",
     "Töri/3. A magyarság őstörténete/Excalidraw/királyi tanács.jpg",
     "Töri/3. A magyarság őstörténete/Excalidraw/Drawing 2026-01-12 12.47.35.excalidraw.md",
     "Kémia/3. Alkánok.md",
     "Biosz/2. Szervek és szervrendszerek/4. Mozgásszervrendszeri betegségek.md",
     "Nyelvtan/Mondattan/6. Gyakorlás.md",
     "Nyelvtan/Mondattan/4. A mondatok típusai.md",
-    "Föci/1. Népesség/8. Nagyvárosok.md",
-    "Föci/1. Népesség/7. Városiasodás.md",
-    "Föci/1. Népesség/6. Népességföldrajz.md",
-    "Föci/1. Népesség/5. Legek.md"
+    "Föci/1. Népesség/8. Nagyvárosok.md"
   ]
 }
