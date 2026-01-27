@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "024ab9733a4c6e7c",
+            "id": "119369b8b403d1f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere/1. Bőr.md",
+                "file": "Irodalom/3. A magyar felvilágosodás/1. A magyar felvilágosodás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Bőr"
-            }
-          },
-          {
-            "id": "b8f39c8d2d606a90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/1. Szállítás.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Szállítás"
-            }
-          },
-          {
-            "id": "dcb5c3ad6ef11d31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/1. Szállítás.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Szállítás"
+              "title": "1. A magyar felvilágosodás"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,11 +182,41 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "dcb5c3ad6ef11d31",
+  "active": "119369b8b403d1f1",
   "lastOpenFiles": [
-    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/folyadékterek.excalidraw.md",
+    "Irodalom/Szöveggyűjteméy.pdf",
+    "Irodalom/3. A magyar felvilágosodás/1. A magyar felvilágosodás.md",
+    "Föci/2. Világgazdaság/2. Telepítő tényezők.md",
+    "Föci/2. Világgazdaság/1. A fejlettség mérése.md",
+    "Irodalom/2. Klasszicizmus/8. Összefoglalás.md",
+    "Kémia/8. Kísérlet.md",
+    "Kémia/7. Több és erősebb kötések.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/1. Szállítás.md",
+    "Nyelvtan/2. Szövegtan/1. Mi a szöveg.md",
     "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere/1. Bőr.md",
+    "Irodalom/3. A magyar felvilágosodás",
+    "Töri/3. A magyarság őstörténete/8. I. Szent László uralkodása.md",
+    "Kémia/Excalidraw/Drawing 2026-01-26 10.44.29.excalidraw.md",
+    "Ketcher/Ketcher 1-26-2026 10.38.05.ket",
+    "Ketcher/svgs/3,3-dimetilpent-1-in.svg",
+    "Ketcher/Ketcher 1-26-2026 10.34.55.ket",
+    "Ketcher/svgs/4-metilpent-2-in.svg",
+    "Ketcher/Ketcher 1-26-2026 10.28.56.ket",
+    "Ketcher/svgs/alkénből_alkin.svg",
+    "Ketcher/svgs/cisz-transz-diklóretén.svg",
+    "Ketcher/svgs/ketcher2.svg",
+    "Ketcher/svgs/ketcher.svg",
+    "Töri/3. A magyarság őstörténete/4. Vármegyék.md",
+    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/hemoglobin.excalidraw.md",
+    "Excalidraw",
+    "Nyelvtan/2. Szövegtan/2. Kapcsolódás a beszédhelyzethez.md",
+    "Nyelvtan/2. Szövegtan/Excalidraw/ado-vevo_kapcsolat.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-22 12.28.17.excalidraw.md",
+    "Nyelvtan/2. Szövegtan/Excalidraw",
+    "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere/3. Csontváz.md",
+    "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere/5. Vázizomrendszer.md",
+    "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere/4. Mozgásszervrendszeri betegségek.md",
+    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/folyadékterek.excalidraw.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere",
     "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere/6. Gyakorlás.md",
     "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere",
@@ -223,36 +224,9 @@
     "Töri/3. A magyarság őstörténete/6. Szent István.md",
     "Töri/3. A magyarság őstörténete/7. XI. Század.md",
     "Töri/3. A magyarság őstörténete/2. Korai történet.md",
-    "Föci/2. Világgazdaság/1. A fejlettség mérése.md",
     "Föci/2. Világgazdaság/chart.png",
     "Untitled.base",
-    "Irodalom/2. Klasszicizmus/5. Az angol líra.md",
-    "Irodalom/2. Klasszicizmus/8. Összefoglalás.md",
-    "Irodalom/2. Klasszicizmus/6. Voltaire.md",
-    "Irodalom/2. Klasszicizmus/7. Johann Wolfgang Goethe.md",
-    "Irodalom/2. Klasszicizmus/2. Moliére.md",
-    "Egyéb/Magyar felelési rendszer.md",
     "Egyéb",
-    "Töri/3. A magyarság őstörténete/4. Vármegyék.md",
-    "Kémia/7. Több és erősebb kötések.md",
-    "Kémia/6. Polimerizáció.md",
-    "Ketcher/svgs/cisz-transz-diklóretén.svg",
-    "Ketcher/svgs/cisz-transz-diklóretén.txt",
-    "Ketcher/Ketcher 1-19-2026 10.41.10.ket",
-    "Ketcher/svgs/ketcher.svg",
-    "Ketcher/Ketcher 1-12-2026 10.49.42.ket",
-    "Ketcher/svgs/ketcher2.svg",
-    "Ketcher/Ketcher 1-12-2026 10.58.17.ket",
-    "Ketcher/svgs",
-    "Ketcher/Új mappa",
-    "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere/3. Csontváz.md",
-    "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere/5. Vázizomrendszer.md",
-    "Excalidraw/Drawing 2026-01-13 13.32.19.excalidraw.md",
-    "Kémia/5. Alkének.md",
-    "Föci/1. Népesség/9. Összefoglalás.md",
-    "Töri/3. A magyarság őstörténete/Excalidraw/királyi tanács.jpg",
-    "Töri/3. A magyarság őstörténete/Excalidraw/Drawing 2026-01-12 12.47.35.excalidraw.md",
-    "Kémia/3. Alkánok.md",
-    "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere/4. Mozgásszervrendszeri betegségek.md"
+    "Töri/3. A magyarság őstörténete/Excalidraw/királyi tanács.jpg"
   ]
 }
