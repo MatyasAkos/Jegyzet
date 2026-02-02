@@ -8,133 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "119369b8b403d1f1",
+            "id": "4749fcff73d1baf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/1. Szállítás.md",
+                "file": "Töri/3. A magyarság őstörténete/10. I. (Könyves) Kálmán uralkodása.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Szállítás"
-            }
-          },
-          {
-            "id": "22fcc9c57349eae6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nyelvtan/2. Szövegtan/2. Kapcsolódás a beszédhelyzethez.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Kapcsolódás a beszédhelyzethez"
-            }
-          },
-          {
-            "id": "e7ccc32fbfb830b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/2. A szív.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. A szív"
-            }
-          },
-          {
-            "id": "f8ae85058cc2a040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/3. Vérkörök.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Vérkörök"
-            }
-          },
-          {
-            "id": "ab0677673da44d6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/3. Vérkörök.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Vérkörök"
-            }
-          },
-          {
-            "id": "5eb0ce0ee020f9fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/8. Kísérlet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Kísérlet"
-            }
-          },
-          {
-            "id": "f7d00919ee87efa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/8. Kísérlet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Kísérlet"
-            }
-          },
-          {
-            "id": "ccfc28d95f4ddd4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/8. Kísérlet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Kísérlet"
-            }
-          },
-          {
-            "id": "6b2329bd4bd3e107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/8. Kísérlet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Kísérlet"
+              "title": "10. I. (Könyves) Kálmán uralkodása"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,11 +182,15 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "6b2329bd4bd3e107",
+  "active": "4749fcff73d1baf2",
   "lastOpenFiles": [
+    "Töri/3. A magyarság őstörténete/9. Gulyásleves.md",
+    "Töri/3. A magyarság őstörténete/8. I. Szent László uralkodása.md",
+    "Kémia/8. Kísérlet.md",
+    "Töri/3. A magyarság őstörténete/10. I. (Könyves) Kálmán uralkodása.md",
+    "Untitled 1.md",
     "Ketcher/Ketcher 2-2-2026 11.02.01.ket",
     "Ketcher/svgs/vinilklorid.svg",
-    "Kémia/8. Kísérlet.md",
     "Kémia/Excalidraw/Drawing 2026-02-02 10.55.33.excalidraw.md",
     "Ketcher/Ketcher 2-2-2026 10.53.02.ket",
     "Kémia/Excalidraw/Drawing 2026-01-26 10.44.29.excalidraw.md",
@@ -315,7 +206,6 @@
     "Untitled",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Assets",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/1. Szállítás.md",
-    "Töri/3. A magyarság őstörténete/8. I. Szent László uralkodása.md",
     "Irodalom/3. A magyar felvilágosodás/1. A magyar felvilágosodás.md",
     "Irodalom/Szöveggyűjteméy.pdf",
     "Föci/2. Világgazdaság/2. Telepítő tényezők.md",
@@ -339,8 +229,6 @@
     "Nyelvtan/2. Szövegtan/Excalidraw/ado-vevo_kapcsolat.excalidraw.md",
     "Excalidraw/Drawing 2026-01-22 12.28.17.excalidraw.md",
     "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere/3. Csontváz.md",
-    "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere/5. Vázizomrendszer.md",
-    "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere/4. Mozgásszervrendszeri betegségek.md",
     "Föci/2. Világgazdaság/chart.png"
   ]
 }
