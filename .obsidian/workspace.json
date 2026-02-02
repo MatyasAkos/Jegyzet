@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Töri/3. A magyarság őstörténete/10. I. (Könyves) Kálmán uralkodása.md",
+                "file": "Irodalom/3. A magyar felvilágosodás/1. A magyar felvilágosodás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. I. (Könyves) Kálmán uralkodása"
+              "title": "1. A magyar felvilágosodás"
+            }
+          },
+          {
+            "id": "b349c28d11c8a685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Irodalom/3. A magyar felvilágosodás/2. Csokonai Vitéz Mihály.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Csokonai Vitéz Mihály"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,12 +197,15 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "4749fcff73d1baf2",
+  "active": "b349c28d11c8a685",
   "lastOpenFiles": [
+    "Irodalom/Szöveggyűjteméy.pdf",
+    "Irodalom/3. A magyar felvilágosodás/2. Csokonai Vitéz Mihály.md",
+    "Irodalom/3. A magyar felvilágosodás/1. A magyar felvilágosodás.md",
+    "Töri/3. A magyarság őstörténete/10. I. (Könyves) Kálmán uralkodása.md",
     "Töri/3. A magyarság őstörténete/9. Gulyásleves.md",
     "Töri/3. A magyarság őstörténete/8. I. Szent László uralkodása.md",
     "Kémia/8. Kísérlet.md",
-    "Töri/3. A magyarság őstörténete/10. I. (Könyves) Kálmán uralkodása.md",
     "Untitled 1.md",
     "Ketcher/Ketcher 2-2-2026 11.02.01.ket",
     "Ketcher/svgs/vinilklorid.svg",
@@ -206,8 +224,6 @@
     "Untitled",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Assets",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/1. Szállítás.md",
-    "Irodalom/3. A magyar felvilágosodás/1. A magyar felvilágosodás.md",
-    "Irodalom/Szöveggyűjteméy.pdf",
     "Föci/2. Világgazdaság/2. Telepítő tényezők.md",
     "Föci/2. Világgazdaság/1. A fejlettség mérése.md",
     "Irodalom/2. Klasszicizmus/8. Összefoglalás.md",
@@ -227,8 +243,6 @@
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/hemoglobin.excalidraw.md",
     "Excalidraw",
     "Nyelvtan/2. Szövegtan/Excalidraw/ado-vevo_kapcsolat.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-22 12.28.17.excalidraw.md",
-    "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere/3. Csontváz.md",
     "Föci/2. Világgazdaság/chart.png"
   ]
 }
