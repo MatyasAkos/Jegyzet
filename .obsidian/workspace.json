@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4749fcff73d1baf2",
+            "id": "d25f3956f30c1fa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Irodalom/3. A magyar felvilágosodás/1. A magyar felvilágosodás.md",
+                "file": "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/4. Szív és érrendszeri betegségek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. A magyar felvilágosodás"
-            }
-          },
-          {
-            "id": "b349c28d11c8a685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Föci/2. Világgazdaság/2. Telepítő tényezők.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Telepítő tényezők"
-            }
-          },
-          {
-            "id": "fc273c00b2da3b47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/3. A magyarság őstörténete/10. I. (Könyves) Kálmán uralkodása.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. I. (Könyves) Kálmán uralkodása"
-            }
-          },
-          {
-            "id": "7f94a8b55e16241b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/3. A magyarság őstörténete/11. II. András.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11. II. András"
+              "title": "4. Szív és érrendszeri betegségek"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,10 +182,14 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "7f94a8b55e16241b",
+  "active": "d25f3956f30c1fa4",
   "lastOpenFiles": [
-    "Töri/3. A magyarság őstörténete/10. I. (Könyves) Kálmán uralkodása.md",
+    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/érelmeszesedés.excalidraw.md",
+    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/4. Szív és érrendszeri betegségek.md",
+    "Untitled.md",
+    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/3. Vérkörök.md",
     "Töri/3. A magyarság őstörténete/11. II. András.md",
+    "Töri/3. A magyarság őstörténete/10. I. (Könyves) Kálmán uralkodása.md",
     "Föci/2. Világgazdaság/3. Gazdasági rendszerek.md",
     "Föci/2. Világgazdaság/2. Telepítő tényezők.md",
     "Irodalom/3. A magyar felvilágosodás/2. Csokonai Vitéz Mihály.md",
@@ -244,7 +205,6 @@
     "Ketcher/Ketcher 2-2-2026 10.53.02.ket",
     "Kémia/Excalidraw/Drawing 2026-01-26 10.44.29.excalidraw.md",
     "Kémia/7. Több és erősebb kötések.md",
-    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/3. Vérkörök.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/2. A szív.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/ér.excalidraw.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/szív.excalidraw.md",
@@ -257,8 +217,6 @@
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/1. Szállítás.md",
     "Föci/2. Világgazdaság/1. A fejlettség mérése.md",
     "Irodalom/2. Klasszicizmus/8. Összefoglalás.md",
-    "Nyelvtan/2. Szövegtan/1. Mi a szöveg.md",
-    "Biosz/2. Szervek és szervrendszerek/1. A mozgás szervrendszere/1. Bőr.md",
     "Irodalom/3. A magyar felvilágosodás",
     "Ketcher/Ketcher 1-26-2026 10.38.05.ket",
     "Ketcher/svgs/3,3-dimetilpent-1-in.svg",
@@ -269,8 +227,6 @@
     "Ketcher/svgs/cisz-transz-diklóretén.svg",
     "Ketcher/svgs/ketcher2.svg",
     "Ketcher/svgs/ketcher.svg",
-    "Töri/3. A magyarság őstörténete/4. Vármegyék.md",
-    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/hemoglobin.excalidraw.md",
     "Excalidraw",
     "Föci/2. Világgazdaság/chart.png"
   ]
