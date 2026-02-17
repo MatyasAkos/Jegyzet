@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/6. Immunrendszer.md",
+                "file": "Föci/2. Világgazdaság/3. Gazdasági rendszerek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Immunrendszer"
+              "title": "3. Gazdasági rendszerek"
+            }
+          },
+          {
+            "id": "91e7509f6bd3595c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Föci/2. Világgazdaság/4. Regionális Gazdasági Integrációk (RGI).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Regionális Gazdasági Integrációk (RGI)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,15 +198,16 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "8b3076064f844fad",
+  "active": "91e7509f6bd3595c",
   "lastOpenFiles": [
-    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/elso-masodik_fertözes.excalidraw.md",
+    "Föci/2. Világgazdaság/3. Gazdasági rendszerek.md",
+    "Föci/2. Világgazdaság/4. Regionális Gazdasági Integrációk (RGI).md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/6. Immunrendszer.md",
+    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/elso-masodik_fertözes.excalidraw.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/antitestes_immunvalasz.excalidraw.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/sejtes_immunvalasz.excalidraw.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Assets/popcat.jpg",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/5. Vércsoport.md",
-    "Föci/2. Világgazdaság/3. Gazdasági rendszerek.md",
     "Irodalom/3. A magyar felvilágosodás/3. Dorottya vagyis a dámák diadalma fársángon.md",
     "Irodalom/Szöveggyűjteméy.pdf",
     "Irodalom/3. A magyar felvilágosodás/2. Csokonai Vitéz Mihály.md",
@@ -218,7 +234,6 @@
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/érelmeszesedés.excalidraw.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/3. Vérkörök.md",
     "Töri/3. A magyarság őstörténete/10. I. (Könyves) Kálmán uralkodása.md",
-    "Föci/2. Világgazdaság/2. Telepítő tényezők.md",
     "Ketcher/Ketcher 2-2-2026 11.02.01.ket",
     "Ketcher/svgs/vinilklorid.svg",
     "Ketcher/Ketcher 2-2-2026 10.53.02.ket",
