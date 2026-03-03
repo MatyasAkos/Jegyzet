@@ -297,6 +297,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "sheet-plus:Create excel file": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -306,14 +307,14 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "ketcher:Create new structure": false,
-      "sheet-plus:Create excel file": false
+      "ketcher:Create new structure": false
     }
   },
-  "active": "8cd82ac381bbf377",
+  "active": "238ab6f55a6a49fc",
   "lastOpenFiles": [
-    "Föci/2. Világgazdaság/5. Globalizáció.md",
     "Föci/2. Világgazdaság/6. Transznacionális Vállalatok.md",
+    "Untitled.md",
+    "Föci/2. Világgazdaság/5. Globalizáció.md",
     "Töri/3. A magyarság őstörténete/13. IV. Béla.md",
     "Kémia/2. Alkoholok/1. Alkoholok.md",
     "Kémia/2. Alkoholok/Excalidraw/aromas.excalidraw.md",
@@ -340,7 +341,6 @@
     "Föci/2. Világgazdaság/3. Gazdasági rendszerek.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/elso-masodik_fertözes.excalidraw.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/antitestes_immunvalasz.excalidraw.md",
-    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Excalidraw/sejtes_immunvalasz.excalidraw.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Assets/popcat.jpg",
     "Irodalom/Szöveggyűjteméy.pdf",
     "Irodalom/homework/20260209_141620.jpg",
