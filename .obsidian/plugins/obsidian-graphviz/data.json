@@ -1,5 +1,5 @@
 {
-  "dotPath": "C:\\Program Files\\Graphviz\\bin\\dot.exe",
+  "dotPath": "/usr/lib/graphviz/tcl/libtcldot.so",
   "renderer": "dot",
   "imageFormat": "svg"
 }
