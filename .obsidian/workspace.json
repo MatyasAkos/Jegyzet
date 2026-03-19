@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "2. Táplálkozás szervrendszere"
             }
+          },
+          {
+            "id": "50df9daebbceb558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/2. Táplálkozás szervrendszere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Táplálkozás szervrendszere"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -268,10 +282,13 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "947c60047bf2869e",
+  "active": "50df9daebbceb558",
   "lastOpenFiles": [
-    "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/1. A légző szervrendszer felépítése.md",
+    "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/Excalidraw/fogabra.excalidraw.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/2. Táplálkozás szervrendszere.md",
+    "Untitled.md",
+    "Excalidraw",
+    "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/1. A légző szervrendszer felépítése.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/Excalidraw/vitalkapacitas.excalidraw.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/Excalidraw",
     "Töri/3. A magyarság őstörténete/13. IV. Béla.md",
@@ -300,8 +317,6 @@
     "Kémia/1. Szénhidrogének/9. Összefoglalás.md",
     "Töri/3. A magyarság őstörténete/12. Aranybulla.md",
     "Föci/2. Világgazdaság/4. Regionális Gazdasági Integrációk (RGI).md",
-    "Föci/1. Népesség/2. Vallási összetétel.md",
-    "Töri/1. Jobbágyság/3. Lovasság.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Assets/popcat.jpg",
     "Irodalom/Szöveggyűjteméy.pdf",
     "Irodalom/homework/20260209_141620.jpg",
@@ -314,7 +329,6 @@
     "Ketcher/svgs/vinilklorid.svg",
     "Ketcher/Ketcher 2-2-2026 10.53.02.ket",
     "Pasted image 20260128123641.png",
-    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Assets/szív.png",
-    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Assets"
+    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Assets/szív.png"
   ]
 }
