@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kémia/2. Alkoholok/2. Oxovegyületek.md",
+                "file": "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora/16. Összefoglalás.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Oxovegyületek"
+              "title": "16. Összefoglalás"
+            }
+          },
+          {
+            "id": "bbab431d41f032df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/1. Az Árpád ház kihalása.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Az Árpád ház kihalása"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 313.5
   },
   "right": {
     "id": "53c155c60700823e",
@@ -183,29 +198,33 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "3f06c70b6d32f01f",
+  "active": "238ab6f55a6a49fc",
   "lastOpenFiles": [
-    "Kémia/2. Alkoholok/1. Alkoholok.md",
+    "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora/16. Összefoglalás.md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/1. Az Árpád ház kihalása.md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása",
     "Kémia/2. Alkoholok/2. Oxovegyületek.md",
-    "Töri/3. A magyarság őstörténete/8. I. Szent László uralkodása.md",
+    "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora",
+    "Vegyesházi királyok uralkodása",
+    "Kémia/2. Alkoholok/1. Alkoholok.md",
+    "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora/8. I. Szent László uralkodása.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/2. Táplálkozás szervrendszere.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/Excalidraw/fogabra.excalidraw.md",
     "Excalidraw",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/1. A légző szervrendszer felépítése.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/Excalidraw/vitalkapacitas.excalidraw.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/Excalidraw",
-    "Töri/3. A magyarság őstörténete/13. IV. Béla.md",
-    "Töri/3. A magyarság őstörténete/16. Összefoglalás.md",
+    "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora/13. IV. Béla.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere",
-    "Töri/3. A magyarság őstörténete/2. Korai történet.md",
+    "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora/2. Korai történet.md",
     "Föci/2. Világgazdaság/6. Transznacionális Vállalatok.md",
     "Föci/2. Világgazdaság/7. A pénz.md",
     "Egyéb/Graphviz template.md",
-    "Töri/3. A magyarság őstörténete/11. II. András.md",
+    "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora/11. II. András.md",
     "Föci/2. Világgazdaság/Assets",
     "Föci/2. Világgazdaság/Assets/guesswedoincirclesnow.png",
-    "Töri/3. A magyarság őstörténete/15. IV. Béla uralkodása a tatárjárás után.md",
-    "Töri/3. A magyarság őstörténete/14. Tatárjárás.md",
+    "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora/15. IV. Béla uralkodása a tatárjárás után.md",
+    "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora/14. Tatárjárás.md",
     "Föci/2. Világgazdaság/5. Globalizáció.md",
     "Kémia/2. Alkoholok/Excalidraw/aromas.excalidraw.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/9. Gyakorlás.md",
@@ -217,18 +236,14 @@
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/7. Immunrendszer elváltozása.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/2. A szív.md",
     "Kémia/1. Szénhidrogének/9. Összefoglalás.md",
-    "Töri/3. A magyarság őstörténete/12. Aranybulla.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Assets/popcat.jpg",
     "Irodalom/Szöveggyűjteméy.pdf",
     "Irodalom/homework/20260209_141620.jpg",
-    "Irodalom/homework",
     "Irodalom/homework/20260209_141626.jpg",
     "Irodalom/homework/20260209_141648.jpg",
     "Irodalom/homework/20260209_141644.jpg",
     "Ketcher/svgs/alkénből_alkin.svg",
-    "Ketcher/Ketcher 2-2-2026 11.02.01.ket",
     "Ketcher/svgs/vinilklorid.svg",
-    "Ketcher/Ketcher 2-2-2026 10.53.02.ket",
     "Pasted image 20260128123641.png",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Assets/szív.png"
   ]
