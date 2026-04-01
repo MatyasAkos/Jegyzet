@@ -1,5 +1,5 @@
 {
-  "dotPath": "/usr/lib/graphviz/tcl/libtcldot.so",
+  "dotPath": "/usr/bin/dot",
   "renderer": "dot",
   "imageFormat": "svg"
 }
