@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/3. Testsúly.md",
+                "file": "Kémia/2. Alkoholok/2. Oxovegyületek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Testsúly"
+              "title": "2. Oxovegyületek"
             }
           }
         ],
@@ -212,10 +212,10 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "238ab6f55a6a49fc",
+  "active": "d9c178f05f6730ca",
   "lastOpenFiles": [
-    "Egyéb/Graphviz template.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/3. Testsúly.md",
+    "Egyéb/Graphviz template.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/2. Táplálkozás szervrendszere.md",
     "Föci/2. Világgazdaság/7. A pénz.md",
     "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/1. Az Árpád ház kihalása.md",
