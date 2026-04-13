@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora/16. Összefoglalás.md",
+                "file": "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/1. Az Árpád ház kihalása.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. Összefoglalás"
+              "title": "1. Az Árpád ház kihalása"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kémia/2. Alkoholok/2. Oxovegyületek.md",
+                "file": "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/1. Az Árpád ház kihalása.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Oxovegyületek"
+              "title": "1. Az Árpád ház kihalása"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,16 +211,17 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "d9c178f05f6730ca",
+  "active": "3f06c70b6d32f01f",
   "lastOpenFiles": [
+    "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora/16. Összefoglalás.md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/1. Az Árpád ház kihalása.md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/2. Károly Róbert gazdaságpolitikája.md",
+    "Kémia/2. Alkoholok/2. Oxovegyületek.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/3. Testsúly.md",
     "Egyéb/Graphviz template.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/2. Táplálkozás szervrendszere.md",
     "Föci/2. Világgazdaság/7. A pénz.md",
-    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/1. Az Árpád ház kihalása.md",
-    "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora/16. Összefoglalás.md",
     "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása",
-    "Kémia/2. Alkoholok/2. Oxovegyületek.md",
     "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora",
     "Vegyesházi királyok uralkodása",
     "Kémia/2. Alkoholok/1. Alkoholok.md",
@@ -249,7 +249,6 @@
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/5. Vércsoport.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/6. Immunrendszer.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/7. Immunrendszer elváltozása.md",
-    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/2. A szív.md",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Assets/popcat.jpg",
     "Irodalom/Szöveggyűjteméy.pdf",
     "Irodalom/homework/20260209_141620.jpg",
