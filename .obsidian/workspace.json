@@ -8,159 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03c7e5f4c68d84c2",
+            "id": "bb5c07a1075a6340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Föci/2. Világgazdaság/11. Bankok.md",
+                "file": "Föci/2. Világgazdaság/2. Szervezetek/1. Nemzetközi szervezetek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Bankok"
-            }
-          },
-          {
-            "id": "ea8f02dfc62014b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/1. Az Árpád ház kihalása.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Az Árpád ház kihalása"
-            }
-          },
-          {
-            "id": "e00050acb99b744a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Biosz/3. Életfolyamatok szabályozása/Excalidraw/vizoldekony_hormon.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "vizoldekony_hormon.excalidraw"
-            }
-          },
-          {
-            "id": "5e6fc4c0f29eea5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biosz/3. Életfolyamatok szabályozása/1. Életfolyamatok szabályozása.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Életfolyamatok szabályozása"
-            }
-          },
-          {
-            "id": "4adf2dd30300ac5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/2. Alkoholok/2. Oxovegyületek.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Oxovegyületek"
-            }
-          },
-          {
-            "id": "55a8654e4e18e5a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/2. Alkoholok/3. Karbonsavak.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Karbonsavak"
-            }
-          },
-          {
-            "id": "c90ea3f7f5de773b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/2. Alkoholok/3. Karbonsavak.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Karbonsavak"
-            }
-          },
-          {
-            "id": "2678cbbacc04183b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kémia/2. Alkoholok/3. Karbonsavak.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Karbonsavak"
-            }
-          },
-          {
-            "id": "b03598a46e7d7f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/2. Az Árpád ház kihalása (extended).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Az Árpád ház kihalása (extended)"
-            }
-          },
-          {
-            "id": "0d37711da7ab8ba9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/3. Árpád ház kihalása (pt. 3).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Árpád ház kihalása (pt. 3)"
-            }
-          },
-          {
-            "id": "ff56388ae4a07113",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Városfejlődés Magyarországon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Városfejlődés Magyarországon"
+              "title": "1. Nemzetközi szervezetek"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -322,10 +183,16 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "ff56388ae4a07113",
+  "active": "bb5c07a1075a6340",
   "lastOpenFiles": [
+    "Föci/2. Világgazdaság/1. Pénz/1. A fejlettség mérése.md",
+    "Föci/2. Világgazdaság/2. Szervezetek/1. Nemzetközi szervezetek.md",
+    "Föci/2. Világgazdaság/2. Szervezetek",
+    "Föci/2. Világgazdaság/1. Pénz/12. Tőzsde = bőrze.md",
+    "Föci/2. Világgazdaság/1. Pénz",
+    "Szervezetek",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/4. Városfejlődés Magyarországon.md",
     "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/3. Árpád ház kihalása (pt. 3).md",
-    "4. Városfejlődés Magyarországon.md",
     "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/2. Az Árpád ház kihalása (extended).md",
     "Biosz/3. Életfolyamatok szabályozása/Excalidraw/hipofizis.excalidraw.md",
     "Kémia/2. Alkoholok/3. Karbonsavak.md",
@@ -343,13 +210,10 @@
     "Biosz/3. Életfolyamatok szabályozása/Excalidraw/sziroldekony_hormon.excalidraw.md",
     "Biosz/3. Életfolyamatok szabályozása/Excalidraw/vizoldekony_hormon.excalidraw.md",
     "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/1. Az Árpád ház kihalása.md",
-    "Föci/2. Világgazdaság/12. Tőzsde = bőrze.md",
-    "Föci/2. Világgazdaság/11. Bankok.md",
+    "Föci/2. Világgazdaság/1. Pénz/11. Bankok.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/2. Táplálkozás szervrendszere.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/5. Gyakorlás.md",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/4. Kiválasztás.md",
-    "Föci/2. Világgazdaság/10. Értékpapír.md",
-    "Föci/2. Világgazdaság/9. Pénznemek.md",
     "Excalidraw",
     "Biosz/3. Életfolyamatok szabályozása",
     "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása",
@@ -357,10 +221,7 @@
     "Vegyesházi királyok uralkodása",
     "Biosz/3. Életfolyamatok szabályozása/Excalidraw",
     "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/Excalidraw",
-    "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere",
-    "Föci/2. Világgazdaság/Assets",
-    "Föci/2. Világgazdaság/Assets/guesswedoincirclesnow.png",
-    "Kémia/2. Alkoholok",
+    "Föci/2. Világgazdaság/1. Pénz/Assets/guesswedoincirclesnow.png",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Assets/popcat.jpg",
     "Irodalom/homework/20260209_141620.jpg",
     "Irodalom/homework/20260209_141626.jpg",
