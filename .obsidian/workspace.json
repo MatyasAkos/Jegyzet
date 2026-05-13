@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Föci/2. Világgazdaság/2. Szervezetek/1. Nemzetközi szervezetek.md",
+                "file": "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/4. Városfejlődés Magyarországon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Nemzetközi szervezetek"
+              "title": "4. Városfejlődés Magyarországon"
+            }
+          },
+          {
+            "id": "ced0fac486522b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/5. Oszmán birodalom és török terjeszkedés.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Oszmán birodalom és török terjeszkedés"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "frac",
+                "query": "Lajos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,17 +198,22 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "bb5c07a1075a6340",
+  "active": "ced0fac486522b8c",
   "lastOpenFiles": [
-    "Föci/2. Világgazdaság/1. Pénz/1. A fejlettség mérése.md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/3. Árpád ház kihalása (pt. 3).md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/5. Oszmán birodalom és török terjeszkedés.md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/4. Városfejlődés Magyarországon.md",
+    "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora/8. I. Szent László uralkodása.md",
+    "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora/16. Összefoglalás.md",
+    "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora/11. II. András.md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/2. Az Árpád ház kihalása (extended).md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/1. Az Árpád ház kihalása.md",
     "Föci/2. Világgazdaság/2. Szervezetek/1. Nemzetközi szervezetek.md",
+    "Föci/2. Világgazdaság/1. Pénz/1. A fejlettség mérése.md",
     "Föci/2. Világgazdaság/2. Szervezetek",
     "Föci/2. Világgazdaság/1. Pénz/12. Tőzsde = bőrze.md",
     "Föci/2. Világgazdaság/1. Pénz",
     "Szervezetek",
-    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/4. Városfejlődés Magyarországon.md",
-    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/3. Árpád ház kihalása (pt. 3).md",
-    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/2. Az Árpád ház kihalása (extended).md",
     "Biosz/3. Életfolyamatok szabályozása/Excalidraw/hipofizis.excalidraw.md",
     "Kémia/2. Alkoholok/3. Karbonsavak.md",
     "Kémia/2. Alkoholok/Excalidraw/ecetsav.excalidraw.md",
@@ -209,11 +229,6 @@
     "Biosz/3. Életfolyamatok szabályozása/1. Életfolyamatok szabályozása.md",
     "Biosz/3. Életfolyamatok szabályozása/Excalidraw/sziroldekony_hormon.excalidraw.md",
     "Biosz/3. Életfolyamatok szabályozása/Excalidraw/vizoldekony_hormon.excalidraw.md",
-    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/1. Az Árpád ház kihalása.md",
-    "Föci/2. Világgazdaság/1. Pénz/11. Bankok.md",
-    "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/2. Táplálkozás szervrendszere.md",
-    "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/5. Gyakorlás.md",
-    "Biosz/2. Szervek és szervrendszerek/3. A légzés & táplálkozás szervrendszere/4. Kiválasztás.md",
     "Excalidraw",
     "Biosz/3. Életfolyamatok szabályozása",
     "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása",
